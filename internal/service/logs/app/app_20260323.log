@@ -1,0 +1,4 @@
+2026-03-23 17:43:16.184 [INFO] local_resource_service.go:32 - 读取文件失败: open /var/folders/d4/01zk33252hg1gg54ghbj83fr0000gn/T/TestLocalResourceServicePanicsWhenFileMissing1965584847/002/missing.txt: no such file or directory goroutine=29
+2026-03-23 17:43:16.188 [INFO] task_category_service.go:41 - 当前key已经存在了[{0x140005bb650 工作 work <nil> <nil>}] goroutine=75
+2026-03-23 17:44:09.981 [INFO] local_resource_service.go:32 - 读取文件失败: open /var/folders/d4/01zk33252hg1gg54ghbj83fr0000gn/T/TestLocalResourceServicePanicsWhenFileMissing1079759452/002/missing.txt: no such file or directory goroutine=10
+2026-03-23 17:44:09.984 [INFO] task_category_service.go:41 - 当前key已经存在了[{0x140005299e0 工作 work <nil> <nil>}] goroutine=71
